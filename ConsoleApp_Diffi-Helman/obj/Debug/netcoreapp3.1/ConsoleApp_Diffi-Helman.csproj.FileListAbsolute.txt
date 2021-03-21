@@ -1,0 +1,13 @@
+C:\Users\nikol\source\repos\ConsoleApp_Diffi-Helman\ConsoleApp_Diffi-Helman\bin\Debug\netcoreapp3.1\ConsoleApp_Diffi-Helman.exe
+C:\Users\nikol\source\repos\ConsoleApp_Diffi-Helman\ConsoleApp_Diffi-Helman\bin\Debug\netcoreapp3.1\ConsoleApp_Diffi-Helman.deps.json
+C:\Users\nikol\source\repos\ConsoleApp_Diffi-Helman\ConsoleApp_Diffi-Helman\bin\Debug\netcoreapp3.1\ConsoleApp_Diffi-Helman.runtimeconfig.json
+C:\Users\nikol\source\repos\ConsoleApp_Diffi-Helman\ConsoleApp_Diffi-Helman\bin\Debug\netcoreapp3.1\ConsoleApp_Diffi-Helman.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\ConsoleApp_Diffi-Helman\ConsoleApp_Diffi-Helman\bin\Debug\netcoreapp3.1\ConsoleApp_Diffi-Helman.dll
+C:\Users\nikol\source\repos\ConsoleApp_Diffi-Helman\ConsoleApp_Diffi-Helman\bin\Debug\netcoreapp3.1\ConsoleApp_Diffi-Helman.pdb
+C:\Users\nikol\source\repos\ConsoleApp_Diffi-Helman\ConsoleApp_Diffi-Helman\obj\Debug\netcoreapp3.1\ConsoleApp_Diffi-Helman.csprojAssemblyReference.cache
+C:\Users\nikol\source\repos\ConsoleApp_Diffi-Helman\ConsoleApp_Diffi-Helman\obj\Debug\netcoreapp3.1\ConsoleApp_Diffi-Helman.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\ConsoleApp_Diffi-Helman\ConsoleApp_Diffi-Helman\obj\Debug\netcoreapp3.1\ConsoleApp_Diffi-Helman.AssemblyInfo.cs
+C:\Users\nikol\source\repos\ConsoleApp_Diffi-Helman\ConsoleApp_Diffi-Helman\obj\Debug\netcoreapp3.1\ConsoleApp_Diffi-Helman.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\ConsoleApp_Diffi-Helman\ConsoleApp_Diffi-Helman\obj\Debug\netcoreapp3.1\ConsoleApp_Diffi-Helman.dll
+C:\Users\nikol\source\repos\ConsoleApp_Diffi-Helman\ConsoleApp_Diffi-Helman\obj\Debug\netcoreapp3.1\ConsoleApp_Diffi-Helman.pdb
+C:\Users\nikol\source\repos\ConsoleApp_Diffi-Helman\ConsoleApp_Diffi-Helman\obj\Debug\netcoreapp3.1\ConsoleApp_Diffi-Helman.genruntimeconfig.cache
